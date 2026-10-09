@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://SITE_STRUKTI.com.br"><img alt="Site" src="https://img.shields.io/badge/site-strukti-1F5FBF?style=for-the-badge&labelColor=0B1E3F"></a>
-  <a href="mailto:EMAIL_STRUKTI@DOMINIO.com"><img alt="Contato" src="https://img.shields.io/badge/contato-fale_com_a_gente-3B82D6?style=for-the-badge&labelColor=0B1E3F"></a>
+  <a href="https://strukti.vercel.app"><img alt="Site" src="https://img.shields.io/badge/site-strukti-1F5FBF?style=for-the-badge&labelColor=0B1E3F"></a>
+  <a href="mailto:struktisolutions@gmail.com"><img alt="Contato" src="https://img.shields.io/badge/contato-fale_com_a_gente-3B82D6?style=for-the-badge&labelColor=0B1E3F"></a>
   <a href="https://www.linkedin.com/company/LINKEDIN_STRUKTI"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-strukti-6CB4FF?style=for-the-badge&labelColor=0B1E3F"></a>
 </p>
 
@@ -62,6 +62,6 @@ entender quem usa  →  prototipar cedo  →  testar em campo  →  evoluir junt
 ---
 
 <p align="center">
-  <sub>Tem um problema que tecnologia de prateleira não resolve? <a href="https://SITE_STRUKTI.com.br"><b>Conte pra gente →</b></a></sub><br>
+  <sub>Tem um problema que tecnologia de prateleira não resolve? <a href="https://strukti.vercel.app"><b>Conte pra gente →</b></a></sub><br>
   <sub>© Strukti Solutions</sub>
 </p>
